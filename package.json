@@ -1,6 +1,6 @@
 {
   "name": "pull-raf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "raf as a through pull stream",
   "main": "index.js",
   "scripts": {
