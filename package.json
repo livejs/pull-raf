@@ -1,0 +1,33 @@
+{
+  "name": "pull-raf",
+  "version": "1.0.0",
+  "description": "raf as a through pull stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/livejs/pull-raf.git"
+  },
+  "keywords": [
+    "stream",
+    "pull-stream",
+    "pull",
+    "raf",
+    "fps"
+  ],
+  "author": "Mikey <michael.williams@enspiral.com> (http://dinosaur.os)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/livejs/pull-raf/issues"
+  },
+  "homepage": "https://github.com/livejs/pull-raf#readme",
+  "dependencies": {
+    "pull-stream": "^3.2.0",
+    "raf": "^3.2.0"
+  },
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
